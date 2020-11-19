@@ -1,1 +1,1 @@
-# N-Queens-with-heuristics-c-
+# N-Queens-with-heuristics-c++
